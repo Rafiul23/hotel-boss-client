@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import RoomCard from "../RoomCard/RoomCard";
+import { Link } from "react-router-dom";
 
 const Welcome = () => {
 
@@ -24,6 +25,11 @@ const Welcome = () => {
                  room={room}
                  ></RoomCard>)
             }
+            </div>
+            <div className="text-center my-5">
+                <Link to='/rooms'>
+                <button className="btn bg-[#6A3E37] text-white">See All Rooms</button>
+                </Link>
             </div>
         </div>
     );

@@ -28,7 +28,6 @@ const Footer = () => {
                 <a className="link link-hover">Twitter</a>
                 <a className="link link-hover">Instagram</a>
                 <a className="link link-hover">Facebook</a>
-                <a className="link link-hover">Github</a>
             </nav>
             <nav>
                 <h6 className="footer-title">Explore</h6>
