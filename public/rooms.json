@@ -1,0 +1,114 @@
+[
+    {
+        "_id": "1",
+        "image": "https://i.ibb.co/5T4X1Zw/johannes-w-IQKu-Hc2lils-unsplash.jpg",
+        "room_title": "Luxury Haven Suite",
+        "description": "Escape to the breathtaking landscapes of Luxury Haven Resort. Nestled amidst lush greenery and overlooking serene blue waters, our resort offers unparalleled luxury and relaxation.",
+        "room_code": "101"
+    },
+    {
+        "_id": "2",
+        "image": "https://i.ibb.co/nnCCkrt/tony-yakovlenko-l-Dxxe-AJr-Wp-E-unsplash.jpg",
+        "room_title": "Sunset Paradise Villa",
+        "description": "Experience the ultimate beachfront getaway at Sunset Paradise Hotel. Enjoy stunning sunsets, white sandy beaches, and world-class amenities that cater to your every need.",
+        "room_code": "102"
+    },
+    {
+        "_id": "3",
+        "image": "https://i.ibb.co/rF2FLN8/abigail-keenan-l2-Jp-NQF-q-Dc-unsplash.jpg",
+        "room_title": "Mountain Retreat Cabin",
+        "description": "Indulge in a tranquil mountain escape at Mountain Retreat Lodge. Surrounded by majestic peaks and pristine forests, our lodge offers a cozy sanctuary for nature lovers.",
+        "room_code": "103"
+    },
+    {
+        "_id": "4",
+        "image": "https://i.ibb.co/J5rt6NT/nik-lanus-YMOHw3-F1-Hdk-unsplash.jpg",
+        "room_title": "Urban Oasis Deluxe Room",
+        "description": "Discover an urban oasis at Urban Oasis Hotel. Located in the heart of the city, our hotel combines modern sophistication with exceptional comfort for an unforgettable stay.",
+        "room_code": "104"
+    },
+    {
+        "_id": "5",
+        "image": "https://example.com/room5.jpg",
+        "room_title": "Garden View Villa",
+        "description": "Relax in privacy and tranquility in our Garden View Villa. Surrounded by lush greenery and blooming flowers, this villa offers a peaceful retreat away from the hustle and bustle of daily life.",
+        "room_code": "201"
+    },
+    {
+        "_id": "6",
+        "image": "https://example.com/room6.jpg",
+        "room_title": "Beachfront Bungalow",
+        "description": "Step out of your door and onto the sandy shores with our Beachfront Bungalow. Perfect for beach lovers, this cozy bungalow offers direct access to the beach and stunning views of the sunset.",
+        "room_code": "202"
+    },
+    {
+        "_id": "7",
+        "image": "https://example.com/room7.jpg",
+        "room_title": "Penthouse Suite",
+        "description": "Experience the height of luxury in our Penthouse Suite. This expansive suite features floor-to-ceiling windows, a private terrace, and unparalleled views of the city skyline.",
+        "room_code": "203"
+    },
+    {
+        "_id": "8",
+        "image": "https://example.com/room8.jpg",
+        "room_title": "Riverside Cabin",
+        "description": "Embrace nature and tranquility in our Riverside Cabin. Situated along the banks of a serene river, this cozy cabin offers a peaceful escape surrounded by towering trees and the sounds of nature.",
+        "room_code": "204"
+    },
+    {
+        "_id": "9",
+        "image": "https://example.com/room9.jpg",
+        "room_title": "Family Suite",
+        "description": "Create lasting memories with your loved ones in our Family Suite. With ample space and thoughtful amenities, this suite is perfect for families looking for a comfortable and convenient stay.",
+        "room_code": "301"
+    },
+    {
+        "_id": "10",
+        "image": "https://example.com/room10.jpg",
+        "room_title": "Safari Tent",
+        "description": "Experience the thrill of camping without sacrificing comfort in our Safari Tent. Tucked away in the heart of the wilderness, this tent offers a cozy retreat after a day of adventure.",
+        "room_code": "302"
+    },
+    {
+        "_id": "11",
+        "image": "https://example.com/room11.jpg",
+        "room_title": "Skyline View Loft",
+        "description": "Enjoy panoramic views of the city skyline in our Skyline View Loft. With its contemporary design and spacious layout, this loft is perfect for urban adventurers.",
+        "room_code": "303"
+    },
+    {
+        "_id": "12",
+        "image": "https://example.com/room12.jpg",
+        "room_title": "Lakefront Cabin",
+        "description": "Escape to the serenity of the lake in our Lakefront Cabin. Nestled along the shore, this cozy cabin offers stunning views of the lake and easy access to water activities.",
+        "room_code": "304"
+    },
+    {
+        "_id": "13",
+        "image": "https://example.com/room13.jpg",
+        "room_title": "Classic Double Room",
+        "description": "Experience comfort and convenience in our Classic Double Room. Ideal for couples or solo travelers, this room offers all the essential amenities for a pleasant stay.",
+        "room_code": "401"
+    },
+    {
+        "_id": "14",
+        "image": "https://example.com/room14.jpg",
+        "room_title": "Forest View Cottage",
+        "description": "Immerse yourself in nature with our Forest View Cottage. Surrounded by towering trees and chirping birds, this cozy cottage offers a peaceful retreat away from the hustle and bustle of city life.",
+        "room_code": "402"
+    },
+    {
+        "_id": "15",
+        "image": "https://example.com/room15.jpg",
+        "room_title": "Urban Studio",
+        "description": "Experience city living at its finest in our Urban Studio. With its modern design and convenient location, this studio is perfect for solo travelers or couples exploring the city.",
+        "room_code": "403"
+    },
+    {
+        "_id": "16",
+        "image": "https://example.com/room16.jpg",
+        "room_title": "Charming Cottage",
+        "description": "Escape the hustle and bustle of daily life in our Charming Cottage. Tucked away in a quaint village, this cottage offers a cozy retreat with all the comforts of home.",
+        "room_code": "404"
+    }
+]
