@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "1",
+      "image": "https://i.ibb.co/5T4X1Zw/johannes-w-IQKu-Hc2lils-unsplash.jpg",
+      "room_title": "Luxury Haven Suite",
+      "description": "Escape to the breathtaking landscapes of Luxury Haven Resort. Nestled amidst lush greenery and overlooking serene blue waters, our resort offers unparalleled luxury and relaxation."
+    },
+    {
+      "_id": "2",
+      "image": "https://i.ibb.co/nnCCkrt/tony-yakovlenko-l-Dxxe-AJr-Wp-E-unsplash.jpg",
+      "room_title": "Sunset Paradise Villa",
+      "description": "Experience the ultimate beachfront getaway at Sunset Paradise Hotel. Enjoy stunning sunsets, white sandy beaches, and world-class amenities that cater to your every need."
+    },
+    {
+      "_id": "3",
+      "image": "https://i.ibb.co/rF2FLN8/abigail-keenan-l2-Jp-NQF-q-Dc-unsplash.jpg",
+      "room_title": "Mountain Retreat Cabin",
+      "description": "Indulge in a tranquil mountain escape at Mountain Retreat Lodge. Surrounded by majestic peaks and pristine forests, our lodge offers a cozy sanctuary for nature lovers."
+    },
+    {
+      "_id": "4",
+      "image": "https://i.ibb.co/VSvkscg/hanny-naibaho-XTzo1d6-N5-II-unsplash.jpg",
+      "room_title": "Urban Oasis Deluxe Room",
+      "description": "Discover an urban oasis at Urban Oasis Hotel. Located in the heart of the city, our hotel combines modern sophistication with exceptional comfort for an unforgettable stay."
+    }
+  ]
+  
