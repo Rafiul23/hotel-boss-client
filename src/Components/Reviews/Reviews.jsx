@@ -33,14 +33,15 @@ const Reviews = () => {
                     reviews.map(review => <SwiperSlide
                         key={review._id}
                     ><div className="m-24 flex flex-col justify-around items-center">
+                            
+                            <img src={review.image} className="h-[100px] w-[100px] rounded-full my-2" />
+                            <h3 className="text-2xl my-2 text-orange-400">{review.name}</h3>
                             <Rating
                                 style={{ maxWidth: 180 }}
                                 value={review.review_star}
                                 readOnly
                             />
-                            <img src={review.image} className="h-[100px] w-[100px] rounded-full my-2" />
-                            <h3 className="text-2xl text-orange-400">{review.name}</h3>
-                            <p className="py-8">{review.comment}</p>
+                            <p className="p-4 text-2xl text-center">{review.comment}</p>
                         </div></SwiperSlide>)
                 }
 
