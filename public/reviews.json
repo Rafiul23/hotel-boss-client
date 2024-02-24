@@ -2,60 +2,70 @@
     {
       "_id": "1",
       "image": "https://i.ibb.co/XV7K5nc/hisu-lee-ruu-Agv-Ik5-o-unsplash.jpg",
+      "name": "John Doe",
       "review_star": 4.5,
       "comment": "Wonderful experience! The hotel staff were incredibly attentive and the amenities were top-notch."
     },
     {
       "_id": "2",
       "image": "https://i.ibb.co/ykLWmMP/jd-chow-gutlcc-GLXKI-unsplash.jpg",
+      "name": "Jane Smith",
       "review_star": 4.0,
       "comment": "Beautiful location with stunning views. However, the room could have been cleaner."
     },
     {
       "_id": "3",
       "image": "https://i.ibb.co/rQkv42k/francois-olwage-d-FFj-Ve-Yq-MX8-unsplash.jpg",
+      "name": "Michael Johnson",
       "review_star": 5.0,
       "comment": "Absolutely perfect! The room was spacious, the food was delicious, and the staff went above and beyond to make our stay memorable."
     },
     {
       "_id": "4",
       "image": "https://i.ibb.co/1dQ7Lx6/marty-o-neill-9ujd-LC6s-Oa-M-unsplash.jpg",
+      "name": "Emily Brown",
       "review_star": 3.5,
       "comment": "Decent hotel for the price. The location was convenient, but the room was a bit outdated."
     },
     {
       "_id": "5",
       "image": "https://i.ibb.co/169bv3F/christiann-koepke-d-Qy-S2p-MYtok-unsplash.jpg",
+      "name": "David Wilson",
       "review_star": 4.8,
       "comment": "Exceeded expectations! From check-in to check-out, everything was perfect. Highly recommended."
     },
     {
       "_id": "6",
       "image": "https://i.ibb.co/HCvDGq0/erik-mclean-2-Wv9-Vnwzee-I-unsplash.jpg",
+      "name": "Sarah Martinez",
       "review_star": 4.2,
       "comment": "Overall a pleasant stay. The room was comfortable, but the noise from nearby construction was a bit disruptive."
     },
     {
       "_id": "7",
       "image": "https://i.ibb.co/xz8kGKN/alex-haney-CAhj-Zm-Vk5-H4-unsplash.jpg",
+      "name": "Christopher Lee",
       "review_star": 4.7,
       "comment": "Fantastic hotel with impeccable service. The attention to detail was evident throughout our entire stay."
     },
     {
       "_id": "8",
       "image": "https://i.ibb.co/dPzVqMC/convertkit-Cb-LJAUI-js-unsplash.jpg",
+      "name": "Amanda Taylor",
       "review_star": 3.8,
       "comment": "Mixed feelings about this hotel. While the location was great, the room was smaller than expected and the Wi-Fi was spotty."
     },
     {
       "_id": "9",
       "image": "https://i.ibb.co/VSvkscg/hanny-naibaho-XTzo1d6-N5-II-unsplash.jpg",
+      "name": "Daniel Anderson",
       "review_star": 4.3,
       "comment": "Great value for money. The room was clean and comfortable, and the breakfast buffet was excellent."
     },
     {
       "_id": "10",
       "image": "https://i.ibb.co/n32WyDS/125314-bangladesh-pratidin-Saudi.jpg",
+      "name": "Jessica Thomas",
       "review_star": 4.6,
       "comment": "Overall a wonderful experience. The staff were friendly and accommodating, and the facilities were well-maintained."
     }
