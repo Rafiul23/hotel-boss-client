@@ -6,7 +6,7 @@ const RoomCard = ({ room }) => {
     const {_id, image, room_title, description, room_code } = room;
 
     return (
-        <div className="card bg-base-100 shadow-xl">
+        <div className="card bg-base-100 hover:bg-[#2c2c2c] hover:text-white shadow-xl">
             <figure><img src={image} className="w-full h-[200px]" alt="room" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{room_title}</h2>
