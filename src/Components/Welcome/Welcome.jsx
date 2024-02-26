@@ -7,7 +7,7 @@ const Welcome = () => {
     const [rooms, setRooms] = useState([]);
 
     useEffect(()=>{
-        fetch('welcome.json')
+        fetch('http://localhost:5000/rooms')
         .then(res => res.json())
         .then(data => setRooms(data))
     }, [])
@@ -20,7 +20,7 @@ const Welcome = () => {
 
             <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4 my-4 bg-gray-200 rounded-xl p-4">
             {
-                rooms.map((room)=><RoomCard 
+                rooms.slice(0,4).map((room)=><RoomCard 
                  key={room._id}
                  room={room}
                  ></RoomCard>)

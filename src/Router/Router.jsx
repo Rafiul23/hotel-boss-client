@@ -7,6 +7,7 @@ import Login from './../Components/Login/Login';
 import Contact from './../Components/Contact/Contact';
 import Dashboard from './../Components/Dashboard/Dashboard';
 import About from './../Components/About/About';
+import RoomDetails from "../Components/RoomDetails/RoomDetails";
 
 const router = createBrowserRouter([
     {
@@ -20,6 +21,11 @@ const router = createBrowserRouter([
         {
           path: '/rooms',
           element: <Rooms></Rooms>
+        },
+        {
+          path: '/room/:id',
+          element: <RoomDetails></RoomDetails>,
+          loader: ({params}) => fetch(`http://localhost:5000/rooms/${params.id}`)
         },
         {
           path: '/register',
